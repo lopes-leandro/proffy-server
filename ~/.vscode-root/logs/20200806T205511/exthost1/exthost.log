@@ -1,0 +1,159 @@
+[2020-08-06 20:55:17.702] [exthost] [info] extension host started
+[2020-08-06 20:55:18.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-06 20:55:18.233] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-08-06 20:55:18.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-06 20:55:18.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-08-06 20:55:18.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-06 20:55:18.630] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-08-06 20:55:19.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-08-06 20:55:19.469] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-08-06 20:55:19.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-06 20:55:19.610] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-08-06 20:55:19.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-08-06 20:55:19.654] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-08-06 20:55:19.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-06 20:55:19.747] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-08-06 20:55:19.757] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2020-08-06 20:55:19.763] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/alefragnani.project-manager-11.1.0/dist/extension
+[2020-08-06 20:55:19.789] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-08-06 20:55:19.789] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-08-06 20:55:19.879] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2020-08-06 20:55:19.879] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/donjayamanne.githistory-0.6.9/dist/src/extension
+[2020-08-06 20:55:20.052] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-08-06 20:55:20.052] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/eamodio.gitlens-10.2.2/dist/extension
+[2020-08-06 20:55:20.157] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-08-06 20:55:20.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/equinusocio.vsc-material-theme-32.8.0/build/material.theme.config
+[2020-08-06 20:55:20.173] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-08-06 20:55:20.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.0/out/src/extension
+[2020-08-06 20:55:20.211] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-08-06 20:55:20.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/esbenp.prettier-vscode-5.1.3/dist/extension
+[2020-08-06 20:55:20.464] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-08-06 20:55:20.465] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/out/prod/extension-prod
+[2020-08-06 20:55:21.052] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-08-06 20:55:21.053] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-08-06 20:55:21.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-08-06 20:55:21.850] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2020-08-06 20:55:24.754] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2020-08-06 20:55:24.754] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=linuxmint.19.3-x64
+	at ChildProcess.<anonymous> (/home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/out/prod/extension-prod.js:136612:32)
+	at ChildProcess.emit (events.js:208:15)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)
+[2020-08-06 20:55:24.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-06 20:55:24.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-08-06 20:55:24.787] [exthost] [info] eager extensions activated
+[2020-08-06 20:55:25.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-08-06 20:55:25.768] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-08-06 20:55:25.777] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-08-06 20:55:25.777] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-08-06 20:55:25.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-08-06 20:55:25.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-08-06 20:56:48.003] [exthost] [info] extension host started
+[2020-08-06 20:56:48.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-06 20:56:48.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-08-06 20:56:48.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-06 20:56:48.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-08-06 20:56:48.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-06 20:56:48.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-08-06 20:56:48.161] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-08-06 20:56:48.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-08-06 20:56:48.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-06 20:56:48.170] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-08-06 20:56:48.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-08-06 20:56:48.174] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-08-06 20:56:48.192] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-06 20:56:48.193] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-08-06 20:56:48.195] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2020-08-06 20:56:48.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/alefragnani.project-manager-11.1.0/dist/extension
+[2020-08-06 20:56:48.201] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-08-06 20:56:48.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-08-06 20:56:48.211] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2020-08-06 20:56:48.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/donjayamanne.githistory-0.6.9/dist/src/extension
+[2020-08-06 20:56:48.238] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-08-06 20:56:48.238] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/eamodio.gitlens-10.2.2/dist/extension
+[2020-08-06 20:56:48.319] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-08-06 20:56:48.320] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/equinusocio.vsc-material-theme-32.8.0/build/material.theme.config
+[2020-08-06 20:56:48.331] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-08-06 20:56:48.331] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.0/out/src/extension
+[2020-08-06 20:56:48.343] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-08-06 20:56:48.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/esbenp.prettier-vscode-5.1.3/dist/extension
+[2020-08-06 20:56:48.435] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-08-06 20:56:48.435] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/out/prod/extension-prod
+[2020-08-06 20:56:48.604] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-08-06 20:56:48.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-08-06 20:56:48.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-08-06 20:56:48.620] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-08-06 20:56:51.701] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2020-08-06 20:56:51.701] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:
+  - https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=linuxmint.19.3-x64
+	at ChildProcess.<anonymous> (/home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/out/prod/extension-prod.js:136612:32)
+	at ChildProcess.emit (events.js:208:15)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)
+[2020-08-06 20:56:51.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-06 20:56:51.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-08-06 20:56:51.737] [exthost] [info] eager extensions activated
+[2020-08-06 20:57:11.643] [exthost] [info] ExtensionService#_doActivateExtension alexcvzz.vscode-sqlite {"startup":false,"extensionId":{"value":"alexcvzz.vscode-sqlite","_lower":"alexcvzz.vscode-sqlite"},"activationEvent":"onCommand:sqlite.explorer.add"}
+[2020-08-06 20:57:11.643] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/alexcvzz.vscode-sqlite-0.8.2/out/extension
+[2020-08-06 20:57:58.180] [exthost] [info] extension host started
+[2020-08-06 20:57:58.215] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-08-06 20:57:58.215] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-08-06 20:57:58.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-08-06 20:57:58.219] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-08-06 20:57:58.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-06 20:57:58.235] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-08-06 20:57:58.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-08-06 20:57:58.262] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-08-06 20:57:58.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-08-06 20:57:58.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-08-06 20:57:58.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-08-06 20:57:58.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-08-06 20:57:58.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-08-06 20:57:58.285] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-08-06 20:57:58.287] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2020-08-06 20:57:58.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/alefragnani.project-manager-11.1.0/dist/extension
+[2020-08-06 20:57:58.293] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-08-06 20:57:58.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-08-06 20:57:58.301] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2020-08-06 20:57:58.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/donjayamanne.githistory-0.6.9/dist/src/extension
+[2020-08-06 20:57:58.325] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-08-06 20:57:58.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/eamodio.gitlens-10.2.2/dist/extension
+[2020-08-06 20:57:58.379] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-08-06 20:57:58.379] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/equinusocio.vsc-material-theme-32.8.0/build/material.theme.config
+[2020-08-06 20:57:58.391] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-08-06 20:57:58.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.0/out/src/extension
+[2020-08-06 20:57:58.402] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-08-06 20:57:58.402] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/esbenp.prettier-vscode-5.1.3/dist/extension
+[2020-08-06 20:57:58.485] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-08-06 20:57:58.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/out/prod/extension-prod
+[2020-08-06 20:57:58.664] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-08-06 20:57:58.664] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/administrador/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-08-06 20:57:58.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-08-06 20:57:58.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-08-06 20:58:01.580] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2020-08-06 20:58:01.580] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=linuxmint.19.3-x64
+	at ChildProcess.<anonymous> (/home/administrador/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2478/out/prod/extension-prod.js:136612:32)
+	at ChildProcess.emit (events.js:208:15)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:203:13)
+	at Pipe.<anonymous> (net.js:588:12)
+[2020-08-06 20:58:01.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-08-06 20:58:01.580] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-08-06 20:58:01.621] [exthost] [info] eager extensions activated

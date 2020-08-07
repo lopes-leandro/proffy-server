@@ -1,0 +1,14 @@
+[2020-08-06 20:55:18.912] [sharedprocess] [info] main {"machineId":"a5a51ca7b8159b2e8701bb08bab7e551a1ed5328603d05369668bbba13cf24ac","windowId":2}
+[2020-08-06 20:55:19.702] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/administrador/Repository/NextLevelWeek2/server-proffy/~/.vscode-root/User/snippets'
+[2020-08-06 20:55:20.551] [sharedprocess] [info] Deleted from disk mtxr.sqltools /home/administrador/.vscode/extensions/mtxr.sqltools-0.22.11
+[2020-08-06 20:55:20.587] [sharedprocess] [info] Deleted from disk mtxr.sqltools-driver-sqlite /home/administrador/.vscode/extensions/mtxr.sqltools-driver-sqlite-0.1.0
+[2020-08-06 20:55:20.674] [sharedprocess] [info] Deleted from disk alexcvzz.vscode-sqlite /home/administrador/.vscode/extensions/alexcvzz.vscode-sqlite-0.8.2
+[2020-08-06 20:55:59.322] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-06 20:56:59.087] [sharedprocess] [info] Installing extension: alexcvzz.vscode-sqlite
+[2020-08-06 20:56:59.698] [sharedprocess] [info] Downloaded extension: alexcvzz.vscode-sqlite /home/administrador/Repository/NextLevelWeek2/server-proffy/~/.vscode-root/CachedExtensionVSIXs/alexcvzz.vscode-sqlite-0.8.2
+[2020-08-06 20:57:01.336] [sharedprocess] [info] Extracted extension to /home/administrador/.vscode/extensions/.alexcvzz.vscode-sqlite-0.8.2: alexcvzz.vscode-sqlite
+[2020-08-06 20:57:01.337] [sharedprocess] [info] Renamed to /home/administrador/.vscode/extensions/alexcvzz.vscode-sqlite-0.8.2
+[2020-08-06 20:57:01.341] [sharedprocess] [info] Installation completed. alexcvzz.vscode-sqlite
+[2020-08-06 20:57:01.353] [sharedprocess] [info] Extensions installed successfully: alexcvzz.vscode-sqlite
+[2020-08-06 20:57:53.430] [sharedprocess] [info] Uninstalling extension: alexcvzz.vscode-sqlite
+[2020-08-06 20:57:53.465] [sharedprocess] [info] Successfully uninstalled extension: alexcvzz.vscode-sqlite
